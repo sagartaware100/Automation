@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-04T17:05:47 IST" name="Default suite" finished-at="2022-07-04T17:06:03 IST" duration-ms="15303">
+    <groups>
+    </groups>
+    <test started-at="2022-07-04T17:05:47 IST" name="Default test" finished-at="2022-07-04T17:06:03 IST" duration-ms="15303">
+      <class name="sdet.Scrollpage">
+        <test-method signature="scroll()[pri:0, instance:sdet.Scrollpage@4c9f8c13]" started-at="2022-07-04T17:05:47 IST" name="scroll" finished-at="2022-07-04T17:06:03 IST" duration-ms="15233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+      </class> <!-- sdet.Scrollpage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
